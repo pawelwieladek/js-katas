@@ -1,0 +1,11 @@
+{
+  "name": "js-katas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "main": "babel-node"
+  },
+  "author": "",
+  "license": "ISC"
+}
